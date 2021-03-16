@@ -119,6 +119,7 @@
 
 
 ## Event Storming 결과
+* 1차 Event Storming 결과
 ![image](https://user-images.githubusercontent.com/80744192/111271677-de5e9180-8674-11eb-8332-0c5d99a23ad4.png)
 
 
