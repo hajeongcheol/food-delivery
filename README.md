@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/80744192/111271337-67c19400-8674-11eb-8d50-a6f5fb4943d8.png)
+
 
 # 예제 - 음식배달 (리포트)
 
@@ -119,6 +119,9 @@
 
 
 ## Event Storming 결과
+![image](https://user-images.githubusercontent.com/80744192/111271677-de5e9180-8674-11eb-8332-0c5d99a23ad4.png)
+
+
 * MSAEz 로 모델링한 이벤트스토밍 결과:  http://msaez.io/#/storming/nZJ2QhwVc4NlVJPbtTkZ8x9jclF2/every/a77281d704710b0c2e6a823b6e6d973a/-M5AV2z--su_i4BfQfeF
 
 
